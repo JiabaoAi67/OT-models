@@ -23,11 +23,6 @@
 
 ![Particle trajectories](assets/particle_trajectories.png)
 
-| Quick checks | |
-|---|---|
-| ![OT quick check](assets/ot_quick_check.png) | ![SI check](assets/si_fixed_check.png) |
-| ![NFDM check](assets/nfdm_check.png) | |
-
 ## Run
 
 ```bash
